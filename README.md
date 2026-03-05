@@ -21,7 +21,7 @@
 ![Result](screenshots/Result.png)
 
 ### Result of Calculation
-![Error_handling](screenshots/Error_handling.png)
+![ErrorHandling](screenshots/ErrorHandling.png)
 
 ## 🛠 Установка и запуск
 
