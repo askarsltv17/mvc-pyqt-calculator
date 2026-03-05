@@ -15,13 +15,13 @@
 
 ## Screenshots
 ### Calculation Example
-![Calculation](screenshots/Calculation.PNG)
+![Calculation](screenshots/Calculation.png)
 
 ### Result of Calculation
-![Result](screenshots/Result.PNG)
+![Result](screenshots/Result.png)
 
 ### Result of Calculation
-![Error_handling](screenshots/Error_handling.PNG)
+![Error_handling](screenshots/Error_handling.png)
 
 ## 🛠 Установка и запуск
 
